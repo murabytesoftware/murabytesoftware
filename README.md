@@ -27,8 +27,4 @@ MuraTools بيقدم أدوات مجانية من المتصفح من غير ح�
 
 Murabyte بيقدم كمان سكريبتات وبرامج مدفوعة. صفحة كل منتج بتوضح متطلبات التشغيل والترخيص وأي تجربة متاحة. كود المنتجات المدفوعة مش موجود في البروفايل أو مستودعات التوثيق.
 
-## AI assistance / استخدام الذكاء الاصطناعي
-
-AI tools assist with development and documentation. Examples and screenshots may use synthetic data. Read the product-specific notes, check outputs, and test a workflow before relying on it for business use.
-
-بنستخدم أدوات ذكاء اصطناعي للمساعدة في التطوير والتوثيق. الأمثلة ولقطات الشاشة ممكن تستخدم بيانات تجريبية. راجع ملاحظات كل منتج والنتائج، واختبر طريقة العمل قبل الاعتماد عليها في شغلك.
+Prepared with AI assistance. / أُعد بمساعدة الذكاء الاصطناعي.
