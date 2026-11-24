@@ -8,12 +8,12 @@ Practical software, browser tools and digital templates for everyday work.
 
 | Resource / القسم | What you will find / المحتوى |
 | --- | --- |
-| [Murabyte website / الموقع](https://murabyte.pages.dev/) | Product information and guides / معلومات المنتجات والشروحات |
-| [MuraTools](https://muratools.pages.dev/) | Free browser tools for PDF, images, text and developer data / أدوات مجانية للـPDF والصور والنصوص والمطورين |
-| [Scripts / السكريبتات](https://murabyte.pages.dev/scripts) | Self-hosted scripts and product requirements / سكريبتات باستضافة ذاتية ومتطلبات التشغيل |
-| [AMP Attendance Manager](https://murabyte.pages.dev/amp) | Windows attendance, payroll and reporting software / برنامج ويندوز للحضور والانصراف والرواتب والتقارير |
+| [Murabyte website / الموقع](https://murabyte.netlify.app/) | Product information and guides / معلومات المنتجات والشروحات |
+| [MuraTools](https://muratools.netlify.app/) | Free browser tools for PDF, images, text and developer data / أدوات مجانية للـPDF والصور والنصوص والمطورين |
+| [Scripts / السكريبتات](https://murabyte.netlify.app/scripts) | Self-hosted scripts and product requirements / سكريبتات باستضافة ذاتية ومتطلبات التشغيل |
+| [AMP Attendance Manager](https://murabyte.netlify.app/amp) | Windows attendance, payroll and reporting software / برنامج ويندوز للحضور والانصراف والرواتب والتقارير |
 | [Gumroad store / المتجر](https://murabyte.gumroad.com/) | Current products, license options and prices / المنتجات وخيارات الترخيص والأسعار الحالية |
-| [Excel orders tutorial / شرح Excel](https://murabyte.pages.dev/excel-orders) | A worked example for checking duplicate paid orders / مثال عملي لمراجعة الطلبات المدفوعة المكررة |
+| [Excel orders tutorial / شرح Excel](https://murabyte.netlify.app/excel-orders) | A worked example for checking duplicate paid orders / مثال عملي لمراجعة الطلبات المدفوعة المكررة |
 
 ## Free tools and commercial products
 
